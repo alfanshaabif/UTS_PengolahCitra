@@ -1,6 +1,6 @@
 # GUI alfanshaabif - Project UTS Pengolah Citra Digital
 
-Silahkan di lihat source code dari GUI alfanshaabif
+Silahkan di lihat source code dari GUI_alfanshaabif
 
 ## Nama  : Alfansha Abiftyo Hadyatama
 ## NIM   : 311910321
