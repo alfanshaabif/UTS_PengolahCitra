@@ -6,3 +6,5 @@ Silahkan di lihat source code dari GUI alfanshaabif
 ## NIM   : 311910321
 ## Kelas : TI.19.A.2
 ## Universitas Pelita Bangsa
+
+Link youtube : https://youtu.be/4kNPgp6WBK8
